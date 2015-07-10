@@ -16,4 +16,4 @@ TODO List:
 * Draw onto SmartWatch screen remotely by drawing onto touch screen in real-time.
 * 
 
-Please check different branches for platform-specific parts of the project.
+Please check branches for platform-specific parts of the project.
